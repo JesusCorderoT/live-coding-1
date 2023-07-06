@@ -1,4 +1,9 @@
 // Escribe tu código aquí.
+//Realizo Jesus Cordero
+
+//Retro de Ana: 
+//La resolución fue ágil y correcta, solo falta explicar
+// a mayor detalle el procedimiento
 
 function palabras(str , arr)
 {
@@ -31,3 +36,4 @@ function imprime(arr)
 
 const arr2 = ['insecto','bootcamp','escritorio','ALGO'];
 imprime(arr2);
+
